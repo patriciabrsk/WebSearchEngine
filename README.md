@@ -4,6 +4,6 @@ This repository contains the source code for Group 35's implementation of the Se
 
 # Authors
 
-Catherine Temitayo Jørgensen 
-Darinka Gordillo Maldonado 
+Catherine Temitayo Jørgensen <br>
+Darinka Gordillo Maldonado <br>
 Patricia Bresku 
